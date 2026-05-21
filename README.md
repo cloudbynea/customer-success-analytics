@@ -1,10 +1,10 @@
-# 📊 Customer Success Analytics Portfolio
+# Customer Success Analytics Portfolio
 
 **Professional-grade analytics tools for SaaS Customer Success teams** | Ready for production | Fully documented
 
 ---
 
-## 🎯 Overview
+## Overview
 
 A comprehensive analytics platform designed to help SaaS companies optimize customer retention, predict churn, maximize revenue, and streamline CS operations. Built with modern best practices and real-world CS metrics.
 
@@ -12,7 +12,7 @@ A comprehensive analytics platform designed to help SaaS companies optimize cust
 
 ---
 
-## 🛠️ The 5 Core Tools
+## The 5 Core Tools
 
 ### 1️⃣ **Customer Health Score** 
 Predictive churn modeling using multi-factor analysis
@@ -194,7 +194,7 @@ docker run -p 8080:8080 cs-analytics
 
 ---
 
-## 🔧 Technology Stack
+## Technology Stack
 
 - **Python 3.10+**: Core analytics engine
 - **Pandas/NumPy**: Data processing
@@ -207,7 +207,7 @@ docker run -p 8080:8080 cs-analytics
 
 ---
 
-## 📈 Features
+## Features
 
 ✅ **Multi-factor churn prediction** - ML-powered risk assessment
 ✅ **Automated NRR tracking** - Real-time revenue health
@@ -222,18 +222,18 @@ docker run -p 8080:8080 cs-analytics
 
 ---
 
-## 🔐 Security & Privacy
+##  Security & Privacy
 
-- ✅ No external data storage
-- ✅ GDPR-compliant
-- ✅ Encrypted connections
-- ✅ Role-based access control
-- ✅ Audit logging
-- ✅ Data retention policies
+- No external data storage
+- GDPR-compliant
+- Encrypted connections
+- Role-based access control
+- Audit logging
+- Data retention policies
 
 ---
 
-## 📚 Documentation
+## Documentation
 
 | Document | Purpose |
 |----------|---------|
@@ -246,7 +246,7 @@ docker run -p 8080:8080 cs-analytics
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see **CONTRIBUTING.md** for guidelines.
 
@@ -259,13 +259,13 @@ We welcome contributions! Please see **CONTRIBUTING.md** for guidelines.
 
 ---
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the **LICENSE** file for details.
 
 ---
 
-## 🙋 Support & Community
+##  Support & Community
 
 - **Issues**: Report bugs via GitHub Issues
 - **Discussions**: Share ideas in Discussions tab
@@ -293,7 +293,7 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 ---
 
-## 🎯 Roadmap
+##  Roadmap
 
 ### Q1 2024
 - [ ] Predictive churn model v2.0
@@ -312,7 +312,7 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 ---
 
-## 📊 Success Stories
+## Success Stories
 
 **Company A**: Reduced churn from 8% to 3% using Health Score
 **Company B**: Increased NRR from 105% to 115% with segmentation
@@ -320,7 +320,7 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 ---
 
-## 💡 Pro Tips
+##  Pro Tips
 
 1. **Start with NRR** - It's your north star metric
 2. **Health Score saves lives** - Predict churn before it happens
@@ -330,7 +330,7 @@ This project is licensed under the MIT License - see the **LICENSE** file for de
 
 ---
 
-## 🔄 Version History
+##  Version History
 
 **v1.0.0** (March 2024)
 - Initial release with 5 core tools
@@ -358,20 +358,11 @@ A: Customer list, MRR, features used, and support tickets. See templates.
 
 ---
 
-## 🌟 Built With
+##  Built With
 
 - Python community (pandas, scikit-learn, Flask)
 - Open-source visualization libraries
 - Community feedback and contributions
-
----
-
-## 📞 Contact & Social
-
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Company](https://linkedin.com)
-- **Twitter/X**: [@yourhandle](https://twitter.com)
-- **Email**: hello@yourdomain.com
 
 ---
 
